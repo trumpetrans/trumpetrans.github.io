@@ -3,7 +3,7 @@ layout: post
 title:  "从大流行病看自由社会的优势"
 author: Per Bylund
 date:   2020-03-29 19:25:36 +0800
-categories: 自由社会
+categories: free-society
 ---
 Per Bylund
 俄克拉荷马州立大学创业学助理教授
