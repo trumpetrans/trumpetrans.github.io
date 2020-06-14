@@ -16,13 +16,12 @@
 title: 角声翻译
 email: trumpetrans@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  译介深度的基督教神学、经济学、政治学、社会学思想和学术，依托基督教智慧传统，
+  连通挖掘保守主义智库资源，吹响信仰与自由的号角。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: trumpetrans
+github_username:  trumpetrans
 
 # Build settings
 markdown: kramdown

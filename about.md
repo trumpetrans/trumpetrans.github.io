@@ -4,15 +4,6 @@ title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+译介深度的基督教神学、经济学、政治学、社会学思想和学术，依托基督教智慧传统，联通挖掘保守主义智库资源，吹响信仰与自由的号角。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+本站由深圳三一福音丰收教会角声翻译事工小组维护。
