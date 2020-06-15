@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "凱撒的物當歸給凱撒-耶穌是社會主義者嗎？"
-author: 凱撒的物當歸給凱撒-耶穌是社會主義者嗎？
+author: Lawrence W. Reed
 date:   2020-06-03 19:25:36 +0800
 categories: christian
 ---
